@@ -10,3 +10,8 @@ brew cask install xquartz
 brew install poppler antiword unrtf tesseract swig
 pip install git+https://github.com/deanmalmgren/textract.git
 ```
+
+## run
+```
+jupyter-notebook
+```
